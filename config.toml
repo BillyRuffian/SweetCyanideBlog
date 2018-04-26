@@ -8,7 +8,7 @@ googleAnalytics = "your_google_analytics_id"
 hasCJKLanguage = false
 
 [params]
-	author = "site_author"
+	author = "Billy Ruffian"
 	description = "Site Description"
 	bio = "author biography"
 
