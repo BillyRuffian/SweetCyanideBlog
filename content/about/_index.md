@@ -6,11 +6,23 @@ hidden = true
 
 One day, I decided I didn't want to eat meat anymore.
 
-Now, I live on a smallholding. I've bred pigs and sheep. I've hatched countless fowl. I've splinted the legs of hatchings when their were spraddled and bottle fed lambs who took residence in the kitchen in front of the Rayburn. I looked after them with tenderness, raised them, and took them to slaughter at small and friendly abbatoir. I've killed, plucked and dressed my Christmas dinner. In short, I'm not squeamish about meat but I always felt that there was right and kind way to farm it.
+I've raised animals for food and long believed it was possible to farm in ways which are kind and right.
 
-I changed my mind.
+I changed my mind. I don't keep farm animals anymore and don't eat meat.
 
-I have a terrible memory so this place serves as a place for me to capture recipes I like. I can also checkout the lists of ingredients I need while wandering doing my shopping. It works better for me than writing them down in a notepad.
+## The purpose of this
+
+I'm learning how to cook again. I have to build up a bank of things I like to eat to replace a few decades of meals I could cook without thinking.
+
+Because I have a terrible memory, this place serves as a place for me to capture recipes I like. I can also checkout the lists of ingredients I need while wandering doing my shopping. It works better for me than writing them down in a notepad.
+
+# Food rules, the rules of food
+
+Eating should be enjoyable. Cooking should be fun. Other people should enjoy sharing food with you even if they are meat eaters.
+
+I'm a brit and following that particular cooking tradition, a plate ought to have a 'main event' with a supporting cast of other vegetables unless the meal is in a different culinary style.
+
+Faking it with meat-subsitutes is sometimes ok but it's not ideal. 
 
 ## On the naming of things
 
