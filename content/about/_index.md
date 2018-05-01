@@ -16,7 +16,7 @@ I'm learning how to cook again. I have to build up a bank of things I like to ea
 
 Because I have a terrible memory, this place serves as a place for me to capture recipes I like. I can also checkout the lists of ingredients I need while wandering doing my shopping. It works better for me than writing them down in a notepad.
 
-# Food rules, the rules of food
+## Food rules, the rules of food
 
 Eating should be enjoyable. Cooking should be fun. Other people should enjoy sharing food with you even if they are meat eaters.
 
