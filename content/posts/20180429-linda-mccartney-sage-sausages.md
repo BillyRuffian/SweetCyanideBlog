@@ -4,6 +4,7 @@ date = 2018-04-29T21:36:46Z
 tags = ["cheats"]
 categories = ["review"]
 draft = false
+slug = "linda-mccartney-red-onion-and-sage-sausages"
 +++
 
 Breakfasts at weekends are problem: a fry-up is a marvelous thing. Like-for-like vegetarian substitutions always feel, to me anyway, as a bit of a failure but a breakfast for kings needs something more than a fried egg.

@@ -4,6 +4,7 @@ date = 2018-04-30T16:15:00Z
 tags = ["mains", "picnic"]
 categories = ["recipe"]
 draft = false
+slug = "potato-frittata"
 +++ 
 
 This frittata is easy and filling and a useful way of using up left overs. It's also really tasty cold making it a perfect picnic companion.
