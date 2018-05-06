@@ -11,11 +11,11 @@ This frittata is easy and filling and a useful way of using up left overs. It's 
 
 <!--more-->
 
-# About
+## About
 
 **Time** about 30 mins, **Difficulty** Easy, **Serves** 4
 
-# Ingredients
+## Ingredients
 
 1. About 200g of new potatoes
 2. A big onion
@@ -26,7 +26,7 @@ This frittata is easy and filling and a useful way of using up left overs. It's 
 6. Vegetable stock
 7. Herbs
 
-# Method
+## Method
 
 Cut the potatoes into small chunks. They want to be quite small. Fill a pan with just enough water to cover them, throw in a stock cube and get them boiling. You want these to be cooked through. When they're done, drain them and set them aside.
 
