@@ -21,7 +21,7 @@ A note about measures: my flan tin is enourmous at 13" in diameter. For a more c
 
 ### Pastry base
 
-See my [pastry]{{< relref "20180506-pastry.md" >}} recipe for a basic recipe. For my giant tin, I use 10oz flour, 5oz butter. 
+See my [pastry]({{< relref "20180506-pastry.md" >}}) recipe for a basic recipe. For my giant tin, I use 10oz flour, 5oz butter. 
 
 ### Filling
 
