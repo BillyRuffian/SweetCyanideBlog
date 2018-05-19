@@ -12,7 +12,7 @@ There’s a little bit of prep to do for this recipe but its worth it. Using rea
 <!--more-->
 
 ## About
-We’re going to make a pesto to start. I promise you that you want to do this rather than open a jar of ready made here and we’re not going to using a food processor or blender so there’s no a ton of washing up.
+We’re going to make a pesto to start. I promise you that you want to do this rather than open a jar of ready made here and we’re not going to using a food processor or blender so there’s not a ton of washing up.
 
 This recipe is open to loads of substitutions: use blanched almonds instead of pine nuts, rocket or chard instead of spinach, asparagus instead of beans, etc. The only thing you must use is the garlic, oil and cheese.
 
