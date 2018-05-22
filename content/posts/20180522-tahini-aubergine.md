@@ -1,7 +1,7 @@
 +++
 title = "Tahini Aubergine"
 date = 2018-05-22T09:59:50Z
-tags = ["tip"]
+tags = ["tips"]
 categories = ["tips"]
 draft = false
 slug = "tahini-aubergine"
