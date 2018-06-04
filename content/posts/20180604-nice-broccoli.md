@@ -1,6 +1,6 @@
 +++
 title = "Nice Boiled Broccoli"
-date = 2018-06-04T23:03:244Z
+date = 2018-06-04T23:03:24Z
 tags = ["tips"]
 categories = ["tips"]
 draft = false
