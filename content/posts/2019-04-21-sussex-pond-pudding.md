@@ -22,6 +22,7 @@ You're going to need an old fashioned pudding basin. A 750ml one would be perfec
 
 ## Ingredients
 **For the pastry**
+
 1. 150g self-raising flour
 2. 75g vegetarian suet
 3. 2 good pinches of salt
@@ -29,6 +30,7 @@ You're going to need an old fashioned pudding basin. A 750ml one would be perfec
 5. Optional: handful of currents or sultanas 
 
 **For the filling**
+
 1. 100g of fridge temperature butter, cubed
 2. 100g of soft brown sugar
 3. A whole, unwaxed lemon
